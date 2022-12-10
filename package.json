@@ -9,7 +9,7 @@
     "compression": "^1.7.4",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "express-handlebars": "^3.1.0",
     "express-status-monitor": "^1.2.6",
     "fs": "0.0.1-security",
